@@ -1,2 +1,2 @@
 # Equity_Research
-A safe space for my coding projects involving financial markets.
+A quantitative trading dashboard built with Python and Streamlit. The application integrates real-time fundamental data with technical indicators (RSI, Bollinger Bands) to generate algorithmic trend signals. Key modules include a Value at Risk (VaR) calculator for risk management and a Monte Carlo simulation engine for probabilistic price forecasting. Features interactive Plotly visualizations for financial modeling.
